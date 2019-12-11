@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/vyushin/ticks-to-date",
   "main": "./src/index.js",
+  "types": "./src/index.d.js",
   "license": "MIT",
   "keywords": [
     "C#",
