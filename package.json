@@ -1,6 +1,6 @@
 {
   "name": "ticks-to-date",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The best way to convert C# ticks date time to JavaScript Date.",
   "author": "Evgeny Vyushin <e@vyushin.ru> (https://github.com/vyushin)",
   "contributors": [
