@@ -1,0 +1,31 @@
+{
+  "name": "ticks-to-date",
+  "version": "1.0.1",
+  "description": "The best way to convert C# ticks date time to JavaScript Date.",
+  "author": "Evgeny Vyushin <e@vyushin.ru> (https://github.com/vyushin)",
+  "contributors": [
+    "Evgeny Vyushin <e@vyushin.ru> (https://github.com/vyushin)"
+  ],
+  "maintainers": [
+    "Evgeny Vyushin <e@vyushin.ru> (https://github.com/vyushin)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vyushin/ticks-to-date"
+  },
+  "bugs": {
+    "url": "https://github.com/vyushin/ticks-to-date/issues"
+  },
+  "homepage": "https://github.com/vyushin/ticks-to-date",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "keywords": [
+    "C#",
+    "ticks",
+    "date",
+    "convert"
+  ],
+  "directories": {
+    "doc": "./README.md"
+  }
+}
