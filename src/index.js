@@ -1,2 +1,2 @@
-const { tickToDate } = require('./ticksToDate');
-module.exports = tickToDate;
+const { ticksToDate } = require('./ticksToDate');
+module.exports = ticksToDate;
