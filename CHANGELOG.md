@@ -1,3 +1,6 @@
+## 1.0.4 (April 21, 2024)
+* Add funding info
+
 ## 1.0.3 (December 11, 2019)
 
 * Fixed nightly mistakes :\
