@@ -1,3 +1,6 @@
+## 1.0.5 (April 21, 2024)
+* Add new funding method
+
 ## 1.0.4 (April 21, 2024)
 * Add funding info
 
