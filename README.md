@@ -4,6 +4,13 @@
 
 The best way to convert C# ticks date time to JavaScript Date.
 
+> **ticks-to-date is free** and will always remain free <br/>
+> A simple and quick way to support the project is to **buy me a coffee**. <br/>It will take no more than 5 minutes and will allow the project to keep going
+
+<a href="https://buymeacoffee.com/vyushin" target="_blank" title="Buy me a coffee">
+  <img height="50" alt="Buy me a coffee" src="https://github.com/vyushin/ticks-to-date/assets/8006957/88b6350c-2eb1-4f4c-9179-6f4b2771905b">
+</a>
+
 ## Installation
 
 ###### NPM
